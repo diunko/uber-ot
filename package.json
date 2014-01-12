@@ -1,0 +1,11 @@
+{
+  "name": "uber-ot",
+  "version": "0.0.1",
+  "description": "ubersimple operational transformation lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "node sample.js"
+  },
+  "author": "Dmitry Unkovsky <oil.crayons@gmail.com>",
+  "license": "ISC"
+}
